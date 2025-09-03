@@ -37,7 +37,6 @@ Currently working as a Partner Engineer focused on Generative AI at Meta in Lond
 📍 **Location**: London, UK  
 💼 **Current Role**: Partner Engineer, GenAI at Meta  
 
-- [GitHub](https://github.com/IgorKasianenko) 
 - [LinkedIn](https://www.linkedin.com/in/kasianenko) - Professional updates and AI insights
 
 *Passionate about the open source community and making cutting-edge AI technology accessible to everyone. Always excited to collaborate on interesting projects and share knowledge!*
