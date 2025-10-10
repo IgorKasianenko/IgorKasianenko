@@ -2,6 +2,7 @@
 # Igor Kasianenko
 
 Partner Engineer, GenAI at Meta | AI Developer & Open Source Enthusiast
+Learning AI Evals For Engineers & PMs by Hamel and Shreya
 
 ## About Me
 
@@ -14,7 +15,7 @@ Currently working as a Partner Engineer focused on Generative AI at Meta in Lond
 
 ## My Contributions
 
-- Actively contributing to Llama and LLM-related projects, [Llama-Cookbook](https://github.com/meta-llama/llama-cookbook)
+- Actively contributing to Llama and LLM-related projects, [Llama-Cookbook](https://github.com/meta-llama/llama-cookbook) maintainer Nov 2024 - now
 - Developing optimizations and improvements for AI model deployment
 - Working on AI infrastructure and tooling
 
