@@ -19,6 +19,10 @@ Currently working as a Partner Engineer focused on Generative AI at Meta in Lond
 - Developing optimizations and improvements for AI model deployment
 - Working on AI infrastructure and tooling
 
+List of interesting in my opinion contributions:
+- Reviewer of [Fine tunining Llama Guard to detect multiple privacy violations](getting-started/responsible_ai/llama_guard/llama_guard_finetuning_multiple_violations_with_torchtune.ipynb)
+- Contibutor of Image grounding example in [Building with Llama 4 at Deeplearning.ai](https://learn.deeplearning.ai/courses/building-with-llama-4/lesson/ln5r5/image-grounding)
+
 ## Writing & Community
 
 - **Quick to Action**: Published ["I run Llama 3 8B locally on CPU"](https://medium.com/@harumambaru/i-run-llama-3-8b-locally-on-cpu-a781cac46f4d) on Medium in April 2024, the same week as the Llama 3 model release, helping the community get hands-on with the latest AI technology immediately
