@@ -20,7 +20,7 @@ Currently working as a Partner Engineer focused on Generative AI at Meta in Lond
 - Working on AI infrastructure and tooling
 
 List of interesting in my opinion contributions:
-- Reviewer of [Fine tunining Llama Guard to detect multiple privacy violations](getting-started/responsible_ai/llama_guard/llama_guard_finetuning_multiple_violations_with_torchtune.ipynb)
+- Reviewer of [Fine tunining Llama Guard to detect multiple privacy violations]([getting-started/responsible_ai/llama_guard/llama_guard_finetuning_multiple_violations_with_torchtune.ipynb](https://github.com/meta-llama/llama-cookbook/blob/f07f23438eee0f510035edb3ebd9d8ee2100fcd4/getting-started/responsible_ai/llama_guard/llama_guard_finetuning_multiple_violations_with_torchtune.ipynb#L8))
 - Contibutor of Image grounding example in [Building with Llama 4 at Deeplearning.ai](https://learn.deeplearning.ai/courses/building-with-llama-4/lesson/ln5r5/image-grounding)
 
 ## Writing & Community
