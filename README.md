@@ -15,7 +15,7 @@ Currently working as a Partner Engineer focused on Generative AI at Meta in Lond
 
 ## My Contributions
 
-- Actively contributing to Llama and LLM-related projects, [Llama-Cookbook](https://github.com/meta-llama/llama-cookbook) maintainer Nov 2024 - now
+- Actively contributing to Llama and LLM-related projects, [Llama-Cookbook](https://github.com/meta-llama/llama-cookbook) maintainer Nov 2024 - Nov 2025
 - Developing optimizations and improvements for AI model deployment
 - Working on AI infrastructure and tooling
 
