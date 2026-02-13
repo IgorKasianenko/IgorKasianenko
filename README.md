@@ -1,7 +1,7 @@
 
 # Igor Kasianenko
 
-Partner Engineer, GenAI at Meta | AI Developer & Open Source Enthusiast
+AI/ML Engineer, ex-Meta | Open Source Enthusiast
 Learning AI Evals For Engineers & PMs by Hamel and Shreya
 
 ## About Me
