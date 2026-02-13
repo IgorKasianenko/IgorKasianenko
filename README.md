@@ -40,7 +40,6 @@ List of interesting in my opinion contributions:
 ## Connect With Me
 
 📍 **Location**: London, UK  
-💼 **Current Role**: Partner Engineer, GenAI at Meta  
 
 - [LinkedIn](https://www.linkedin.com/in/kasianenko) - Professional updates and AI insights
 
