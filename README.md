@@ -6,7 +6,12 @@ Learning AI Evals For Engineers & PMs by Hamel and Shreya
 
 ## About Me
 
-Currently working as a Partner Engineer focused on Generative AI at Meta in London, UK. I'm passionate about making AI accessible to everyone and have a deep love for the open source community. My work spans across developing and optimizing AI systems, with particular expertise in:
+After finishing my Partner Engineer role focused on Generative AI at Meta in London, UK, I am taking a break to leart state of the art and industry best practices in AI.
+Completed AI Evals For Engineers & PMs course https://maven.com/parlance-labs/evals/2025-3/home
+
+Leading study group of industry professionals studying CS336: Language Modeling from Scratch course and Ali Aminian ML system design book and Generative AI System Design. 
+
+I'm passionate about making AI accessible to everyone and have a deep love for the open source community. My work spans across developing and optimizing AI systems, with particular expertise in:
 - Large Language Models (LLMs)
 - Computer Vision
 - Machine Learning Infrastructure
